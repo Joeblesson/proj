@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Segoe UI Static Display Semibold";
+    src: url(suisdsm.ttf);
+}
+
+h1{
+    font-family: "Segoe UI Static Display Semibold";
+    color: black;
+    font-size: 150px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(222, 239, 254);
+}
+
+div {
+    text-align: center;
+    border-color:black;
+    background-color: black;
+}
+
+p{
+    font-family: "Segoe UI Static Display Semibold";
+    font-size: 50px;
+}
+
+.filler {
+    color: aliceblue;
+}
