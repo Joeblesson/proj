@@ -10,14 +10,21 @@ h1{
     text-align: center;
 }
 
+h3 {
+    font-family: "Segoe UI Static Display Semibold";
+}
+
+h2 {
+    font-family: "Segoe UI Static Display Semibold";
+}
+
+
 body {
     background-color: rgb(222, 239, 254);
 }
 
-div {
-    text-align: center;
-    border-color:black;
-    background-color: black;
+td {
+    font-family: "Segoe UI Static Display Semibold";
 }
 
 p{
@@ -28,3 +35,16 @@ p{
 .filler {
     color: aliceblue;
 }
+
+.container {
+    padding:5px 30px 30px 30px;
+    margin:30px;
+    border:solid palevioletred 5px;
+    border-radius:30px;
+    /*background-color:#e6e6e6;*/
+    text-align:center;
+  }
+  
+  .btn-success, .btn-danger {
+    width:200px;
+  }
